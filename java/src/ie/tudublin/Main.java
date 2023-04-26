@@ -57,18 +57,13 @@ public class Main
         processing.core.PApplet.runSketch( a, new YASC());
     }
 
-	public static void dani()
-	{
+	public static void dani() {
 		String[] a = {"MAIN"};
         processing.core.PApplet.runSketch( a, new DANI());
     }
 
 	
-	public static void main(String[] args)
-	{
-		System.out.println("Hello world");
-		
-
+	public static void main(String[] args) {
 		dani();
 	}
 	
