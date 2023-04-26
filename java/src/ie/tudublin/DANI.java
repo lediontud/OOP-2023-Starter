@@ -227,6 +227,6 @@ public class DANI extends PApplet {
 		float hintText2Y = hintTextY - 20;
 		text(hintText2, hintText2X, hintText2Y);
 		line(hintText2X, hintText2Y + 2, hintText2X + hintText2Width, hintText2Y + 2);
-	}
+	} 
 
 }
